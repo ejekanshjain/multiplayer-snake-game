@@ -1,4 +1,4 @@
-const socket = io('http://localhost:5000')
+const socket = io('https://snakify5000.herokuapp.com')
 
 const BG_COLOUR = '#2c3e50'
 const SNAKE_COLOUR_PLAYER_1 = '#2ecc71'
